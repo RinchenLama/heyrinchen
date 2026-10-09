@@ -251,7 +251,7 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g Optimum Nutrition Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "20 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Optional: ⅛ teaspoon xanthan gum",
       "Tiny pinch of salt",
       "2 black tea bags",
@@ -260,10 +260,12 @@ const recipes = [
       "1 clove"
     ],
     "prep": [
+      "Sweetener guide: use the 20 g starting amount above for the whole recipe (10 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 20 g sugar.",
       "Gently heat the milk with tea, cardamom, ginger and clove without boiling.",
       "Remove from heat and steep for about 5 minutes. Strain and cool.",
       "Measure 400 ml infused milk, replacing any small loss with skim milk. Blend with whey, sweetener, salt and optional xanthan.",
       "If using xanthan, sprinkle it in while blending. Use only ⅛ teaspoon to avoid a gummy texture.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Adjust sweetness, let foam settle, then stir gently. Pour below SCOOPABLE MAX FILL; do not top up with water or milk.",
       "Fit the lid. Freeze upright and level for at least 24 hours before processing."
     ],
@@ -276,7 +278,7 @@ const recipes = [
       "Smooth leftovers flat, cover and return promptly to the freezer.",
       "If hard next time, use LITE ICE CREAM again. If already scoopable, enjoy without processing."
     ],
-    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals.",
+    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Ginger biscuit dunk",
@@ -315,16 +317,18 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g Optimum Nutrition Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "20 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Optional: ⅛ teaspoon xanthan gum",
       "Tiny pinch of salt",
       "⅛ teaspoon food-grade peppermint extract",
       "10 g dark chocolate, finely chopped — reserve until after spinning"
     ],
     "prep": [
+      "Sweetener guide: use the 20 g starting amount above for the whole recipe (10 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 20 g sugar.",
       "Blend the milk, whey, sweetener, salt, optional xanthan and peppermint extract until smooth.",
       "Taste before adding any more peppermint; extract strength varies. Keep chocolate out of the base.",
       "If using xanthan, sprinkle it in while blending. Use only ⅛ teaspoon to avoid a gummy texture.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Adjust sweetness, let foam settle, then stir gently. Pour below SCOOPABLE MAX FILL; do not top up with water or milk.",
       "Fit the lid. Freeze upright and level for at least 24 hours before processing."
     ],
@@ -337,7 +341,7 @@ const recipes = [
       "Smooth leftovers flat, cover and return promptly to the freezer.",
       "If hard next time, use LITE ICE CREAM again. If already scoopable, enjoy without processing."
     ],
-    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals.",
+    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Cookies & mint",
@@ -376,7 +380,7 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g Optimum Nutrition Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "20 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Optional: ⅛ teaspoon xanthan gum",
       "Tiny pinch of salt",
       "30 g light cream cheese",
@@ -384,9 +388,11 @@ const recipes = [
       "½ teaspoon vanilla extract"
     ],
     "prep": [
+      "Sweetener guide: use the 20 g starting amount above for the whole recipe (10 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 20 g sugar.",
       "Blend all ingredients until completely smooth, including the light cream cheese.",
       "Use only yellow lemon zest, avoiding the bitter white pith. No lemon juice is needed.",
       "If using xanthan, sprinkle it in while blending. Use only ⅛ teaspoon to avoid a gummy texture.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Adjust sweetness, let foam settle, then stir gently. Pour below SCOOPABLE MAX FILL; do not top up with water or milk.",
       "Fit the lid. Freeze upright and level for at least 24 hours before processing."
     ],
@@ -399,7 +405,7 @@ const recipes = [
       "Smooth leftovers flat, cover and return promptly to the freezer.",
       "If hard next time, use LITE ICE CREAM again. If already scoopable, enjoy without processing."
     ],
-    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals.",
+    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Biscuit-base crunch",
@@ -438,15 +444,17 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g Optimum Nutrition Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "15 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Optional: ⅛ teaspoon xanthan gum",
       "Tiny pinch of salt",
       "150 g strawberries, fresh or thawed"
     ],
     "prep": [
+      "Sweetener guide: use the 15 g starting amount above for the whole recipe (7.5 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 15 g sugar.",
       "If using frozen strawberries, thaw in the fridge until blendable and retain their juice.",
       "Blend strawberries with all base ingredients until completely smooth.",
       "If using xanthan, sprinkle it in while blending. Use only ⅛ teaspoon to avoid a gummy texture.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Adjust sweetness, let foam settle, then stir gently. Pour below SCOOPABLE MAX FILL; do not top up with water or milk.",
       "Fit the lid. Freeze upright and level for at least 24 hours before processing."
     ],
@@ -459,7 +467,7 @@ const recipes = [
       "Smooth leftovers flat, cover and return promptly to the freezer.",
       "If hard next time, use LITE ICE CREAM again. If already scoopable, enjoy without processing."
     ],
-    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals.",
+    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Strawberry shortcake",
@@ -498,15 +506,17 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g Optimum Nutrition Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "20 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Optional: ⅛ teaspoon xanthan gum",
       "Tiny pinch of salt",
       "10 g toasted black sesame seeds"
     ],
     "prep": [
+      "Sweetener guide: use the 20 g starting amount above for the whole recipe (10 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 20 g sugar.",
       "Finely grind the toasted sesame seeds separately.",
       "Blend ground sesame into the milk, whey, sweetener, salt and optional xanthan. Expect a slightly nutty texture.",
       "If using xanthan, sprinkle it in while blending. Use only ⅛ teaspoon to avoid a gummy texture.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Adjust sweetness, let foam settle, then stir gently. Pour below SCOOPABLE MAX FILL; do not top up with water or milk.",
       "Fit the lid. Freeze upright and level for at least 24 hours before processing."
     ],
@@ -519,7 +529,7 @@ const recipes = [
       "Smooth leftovers flat, cover and return promptly to the freezer.",
       "If hard next time, use LITE ICE CREAM again. If already scoopable, enjoy without processing."
     ],
-    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals.",
+    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Sesame chocolate",
@@ -558,16 +568,18 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g Optimum Nutrition Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "15 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Optional: ⅛ teaspoon xanthan gum",
       "Tiny pinch of salt",
       "6–8 saffron threads",
       "¼ teaspoon ground cardamom"
     ],
     "prep": [
+      "Sweetener guide: use the 15 g starting amount above for the whole recipe (7.5 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 15 g sugar.",
       "Warm 50 ml of the measured milk with saffron and cardamom. Remove from heat and steep for 10 minutes.",
       "Add the remaining 350 ml cold milk. Let cool before blending with whey, sweetener, salt and optional xanthan.",
       "If using xanthan, sprinkle it in while blending. Use only ⅛ teaspoon to avoid a gummy texture.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Adjust sweetness, let foam settle, then stir gently. Pour below SCOOPABLE MAX FILL; do not top up with water or milk.",
       "Fit the lid. Freeze upright and level for at least 24 hours before processing."
     ],
@@ -580,7 +592,7 @@ const recipes = [
       "Smooth leftovers flat, cover and return promptly to the freezer.",
       "If hard next time, use LITE ICE CREAM again. If already scoopable, enjoy without processing."
     ],
-    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals.",
+    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Pistachio kulfi crunch",
@@ -619,15 +631,17 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g Optimum Nutrition Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "10 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Optional: ⅛ teaspoon xanthan gum",
       "Tiny pinch of salt",
       "10 ml low-calorie caramel syrup"
     ],
     "prep": [
+      "Sweetener guide: use the 10 g starting amount above for the whole recipe (5 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 10 g sugar.",
       "Blend all ingredients, including caramel syrup. Use only the small pinch of salt listed in the base.",
       "Taste before adding more sweetener or salt. Syrup strength and sweetness vary by brand.",
       "If using xanthan, sprinkle it in while blending. Use only ⅛ teaspoon to avoid a gummy texture.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Adjust sweetness, let foam settle, then stir gently. Pour below SCOOPABLE MAX FILL; do not top up with water or milk.",
       "Fit the lid. Freeze upright and level for at least 24 hours before processing."
     ],
@@ -640,7 +654,7 @@ const recipes = [
       "Smooth leftovers flat, cover and return promptly to the freezer.",
       "If hard next time, use LITE ICE CREAM again. If already scoopable, enjoy without processing."
     ],
-    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals. Caramel estimate uses 5 kcal of syrup; expect about 300–310 kcal per batch depending on syrup.",
+    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals. Caramel estimate uses 5 kcal of syrup; expect about 300–310 kcal per batch depending on syrup. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Salted pretzel crunch",
@@ -679,16 +693,18 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g Optimum Nutrition Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "15 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Optional: ⅛ teaspoon xanthan gum",
       "Tiny pinch of salt",
       "1 teaspoon finely grated orange zest",
       "½ teaspoon vanilla extract"
     ],
     "prep": [
+      "Sweetener guide: use the 15 g starting amount above for the whole recipe (7.5 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 15 g sugar.",
       "Blend all ingredients until smooth.",
       "Use only coloured orange peel, avoiding white pith. Do not add orange juice.",
       "If using xanthan, sprinkle it in while blending. Use only ⅛ teaspoon to avoid a gummy texture.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Adjust sweetness, let foam settle, then stir gently. Pour below SCOOPABLE MAX FILL; do not top up with water or milk.",
       "Fit the lid. Freeze upright and level for at least 24 hours before processing."
     ],
@@ -701,7 +717,7 @@ const recipes = [
       "Smooth leftovers flat, cover and return promptly to the freezer.",
       "If hard next time, use LITE ICE CREAM again. If already scoopable, enjoy without processing."
     ],
-    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals.",
+    "note": "Development recipe, not kitchen-tested. Expect less richness than cream-based ice cream; protein powder flavour affects the result. Estimates assume a base of about 300 kcal, 46 g protein, 24 g carbs and 3 g fat from skim milk and whey. Low-calorie sweetener and optional xanthan are treated as negligible. Exact product labels and toppings change totals. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Chocolate orange",
@@ -736,12 +752,12 @@ const recipes = [
       418,
       48.7,
       44.2,
-      7.0
+      7
     ],
     "ingredients": [
       "400 ml skim milk",
       "40 g ON Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "15 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Tiny pinch of salt",
       "75 g strawberries",
       "75 g blueberries",
@@ -749,8 +765,10 @@ const recipes = [
       "5 g ground flaxseed"
     ],
     "prep": [
+      "Sweetener guide: use the 15 g starting amount above for the whole recipe (7.5 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 15 g sugar.",
       "Soak chia seeds in 50 ml of the measured milk for 20 minutes in the fridge.",
       "Thaw frozen berries in the fridge until blendable. Blend berries, soaked chia, flaxseed and all remaining base ingredients until smooth.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Let foam settle and gently stir. Pour into a Deluxe tub below SCOOPABLE MAX FILL. Do not top up to the line.",
       "Fit the lid and freeze upright and level for at least 24 hours."
     ],
@@ -763,7 +781,7 @@ const recipes = [
       "Smooth remaining dessert flat, cover and return promptly to the freezer.",
       "When hard again, use the original LITE ICE CREAM program. If scoopable, eat without processing."
     ],
-    "note": "Chia and flax add fibre and plant fats; their calories are included. Expect tiny seed flecks. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included.",
+    "note": "Chia and flax add fibre and plant fats; their calories are included. Expect tiny seed flecks. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Berry cheesecake crunch",
@@ -796,22 +814,24 @@ const recipes = [
     "servings": 2,
     "mac": [
       390,
-      48.0,
+      48,
       34.3,
       8.4
     ],
     "ingredients": [
       "400 ml skim milk",
       "40 g ON Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "15 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Tiny pinch of salt",
       "100 g cooked carrot, drained and cooled",
       "8 g walnuts, finely chopped (reserve for serving)",
       "½ teaspoon ground cinnamon"
     ],
     "prep": [
+      "Sweetener guide: use the 15 g starting amount above for the whole recipe (7.5 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 15 g sugar.",
       "Steam or boil peeled carrot until very soft. Drain, cool and weigh 100 g.",
       "Blend carrot and cinnamon with the base until completely smooth. Reserve walnuts for serving.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Let foam settle and gently stir. Pour into a Deluxe tub below SCOOPABLE MAX FILL. Do not top up to the line.",
       "Fit the lid and freeze upright and level for at least 24 hours."
     ],
@@ -825,7 +845,7 @@ const recipes = [
       "Smooth remaining dessert flat, cover and return promptly to the freezer.",
       "When hard again, use the original LITE ICE CREAM program. If scoopable, eat without processing."
     ],
-    "note": "Cooked carrot contributes beta-carotene. The measured walnut topping is included in the estimates. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included.",
+    "note": "Cooked carrot contributes beta-carotene. The measured walnut topping is included in the estimates. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Ginger cake crunch",
@@ -865,15 +885,17 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g ON Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "10 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Tiny pinch of salt",
       "100 g cooked peeled sweet potato, cooled",
       "8 g pumpkin seeds, finely chopped (reserve for serving)",
       "¼ teaspoon cinnamon"
     ],
     "prep": [
+      "Sweetener guide: use the 10 g starting amount above for the whole recipe (5 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 10 g sugar.",
       "Bake or steam sweet potato until tender. Remove skin, cool and weigh 100 g.",
       "Blend sweet potato, cinnamon and base ingredients until smooth. Reserve chopped pumpkin seeds for serving.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Let foam settle and gently stir. Pour into a Deluxe tub below SCOOPABLE MAX FILL. Do not top up to the line.",
       "Fit the lid and freeze upright and level for at least 24 hours."
     ],
@@ -887,7 +909,7 @@ const recipes = [
       "Smooth remaining dessert flat, cover and return promptly to the freezer.",
       "When hard again, use the original LITE ICE CREAM program. If scoopable, eat without processing."
     ],
-    "note": "Sweet potato adds body and beta-carotene. Pumpkin seeds add zinc and fats; keep to the measured amount for these macros. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included.",
+    "note": "Sweet potato adds body and beta-carotene. Pumpkin seeds add zinc and fats; keep to the measured amount for these macros. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Spiced biscuit pie",
@@ -927,15 +949,17 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g ON Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "25 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Tiny pinch of salt",
       "50 g ripe avocado flesh",
       "10 g unsweetened cocoa powder",
       "5 g shelled hemp seeds"
     ],
     "prep": [
+      "Sweetener guide: use the 25 g starting amount above for the whole recipe (12.5 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 25 g sugar.",
       "Blend ripe avocado, cocoa, shelled hemp seeds and all base ingredients until completely smooth.",
       "Taste and adjust sweetener to balance the cocoa. Do not add cream or oil.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Let foam settle and gently stir. Pour into a Deluxe tub below SCOOPABLE MAX FILL. Do not top up to the line.",
       "Fit the lid and freeze upright and level for at least 24 hours."
     ],
@@ -948,7 +972,7 @@ const recipes = [
       "Smooth remaining dessert flat, cover and return promptly to the freezer.",
       "When hard again, use the original LITE ICE CREAM program. If scoopable, eat without processing."
     ],
-    "note": "Avocado and hemp contribute fats and increase calories. This recipe is richer than the other lean protein bases; cocoa carb totals include fibre. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included.",
+    "note": "Avocado and hemp contribute fats and increase calories. This recipe is richer than the other lean protein bases; cocoa carb totals include fibre. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Brownie sundae",
@@ -988,15 +1012,17 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g ON Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "15 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Tiny pinch of salt",
       "150 g strawberries",
       "40 g cooked plain beetroot, cooled",
       "5 g sunflower seeds, finely chopped (reserve for serving)"
     ],
     "prep": [
+      "Sweetener guide: use the 15 g starting amount above for the whole recipe (7.5 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 15 g sugar.",
       "Use plain cooked beetroot, not pickled beetroot. Cool completely and weigh 40 g.",
       "Blend strawberries, beetroot and base ingredients until smooth. Reserve sunflower seeds for serving.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Let foam settle and gently stir. Pour into a Deluxe tub below SCOOPABLE MAX FILL. Do not top up to the line.",
       "Fit the lid and freeze upright and level for at least 24 hours."
     ],
@@ -1010,7 +1036,7 @@ const recipes = [
       "Smooth remaining dessert flat, cover and return promptly to the freezer.",
       "When hard again, use the original LITE ICE CREAM program. If scoopable, eat without processing."
     ],
-    "note": "The beetroot adds colour and a mild earthy note. Sunflower seeds add vitamin E; this is not a treatment for circulation or skin problems. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included.",
+    "note": "The beetroot adds colour and a mild earthy note. Sunflower seeds add vitamin E; this is not a treatment for circulation or skin problems. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Velvet cookie crumb",
@@ -1050,15 +1076,17 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g ON Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "15 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Tiny pinch of salt",
       "100 g peeled seedless orange flesh",
       "8 g almonds, finely chopped (reserve for serving)",
       "½ teaspoon finely grated orange zest"
     ],
     "prep": [
+      "Sweetener guide: use the 15 g starting amount above for the whole recipe (7.5 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 15 g sugar.",
       "Remove orange peel, seeds and excess white pith. Weigh 100 g flesh.",
       "Blend orange, zest and base ingredients briefly until smooth, then transfer promptly to the freezer. Reserve chopped almonds for serving.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Let foam settle and gently stir. Pour into a Deluxe tub below SCOOPABLE MAX FILL. Do not top up to the line.",
       "Fit the lid and freeze upright and level for at least 24 hours."
     ],
@@ -1072,7 +1100,7 @@ const recipes = [
       "Smooth remaining dessert flat, cover and return promptly to the freezer.",
       "When hard again, use the original LITE ICE CREAM program. If scoopable, eat without processing."
     ],
-    "note": "Orange supplies vitamin C; almonds add vitamin E. Citrus may make the dairy base look slightly separated before freezing. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included.",
+    "note": "Orange supplies vitamin C; almonds add vitamin E. Citrus may make the dairy base look slightly separated before freezing. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Chocolate orange crunch",
@@ -1112,15 +1140,17 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g ON Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "10 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Tiny pinch of salt",
       "120 g mango flesh",
       "20 g baby spinach",
       "½ teaspoon finely grated lemon zest"
     ],
     "prep": [
+      "Sweetener guide: use the 10 g starting amount above for the whole recipe (5 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 10 g sugar.",
       "Wash spinach thoroughly. Thaw frozen mango in the fridge until blendable.",
       "Blend spinach with the milk first, then add mango, zest, whey, sweetener and salt. Blend until smooth.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Let foam settle and gently stir. Pour into a Deluxe tub below SCOOPABLE MAX FILL. Do not top up to the line.",
       "Fit the lid and freeze upright and level for at least 24 hours."
     ],
@@ -1133,7 +1163,7 @@ const recipes = [
       "Smooth remaining dessert flat, cover and return promptly to the freezer.",
       "When hard again, use the original LITE ICE CREAM program. If scoopable, eat without processing."
     ],
-    "note": "A modest spinach portion keeps the flavour fruit-forward. Adds produce variety without promising a visible skin change. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included.",
+    "note": "A modest spinach portion keeps the flavour fruit-forward. Adds produce variety without promising a visible skin change. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "Tropical coconut",
@@ -1173,14 +1203,16 @@ const recipes = [
     "ingredients": [
       "400 ml skim milk",
       "40 g ON Gold Standard vanilla whey",
-      "Low-calorie sweetener to taste",
+      "20 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
       "Tiny pinch of salt",
       "60 ml 100% pomegranate juice, no added sugar",
       "100 g raspberries"
     ],
     "prep": [
+      "Sweetener guide: use the 20 g starting amount above for the whole recipe (10 g if making half). These amounts are for a granulated blend with the same sweetness as sugar, not pure stevia, pure monkfruit, drops or concentrated sachets. For another product, use its label conversion to match 20 g sugar.",
       "Thaw frozen raspberries in the fridge until blendable.",
       "Blend berries, pomegranate juice and all base ingredients smooth. Do not add whole hard pomegranate seeds. Tiny raspberry seeds will remain.",
+      "Before freezing, taste the cool blended base. Your vanilla whey is already sweetened; if needed, blend in another 5 g of the same 1:1 sweetener, taste again, and repeat once at most. This is a starting guide, not a kitchen-tested sweetness level.",
       "Let foam settle and gently stir. Pour into a Deluxe tub below SCOOPABLE MAX FILL. Do not top up to the line.",
       "Fit the lid and freeze upright and level for at least 24 hours."
     ],
@@ -1193,7 +1225,7 @@ const recipes = [
       "Smooth remaining dessert flat, cover and return promptly to the freezer.",
       "When hard again, use the original LITE ICE CREAM program. If scoopable, eat without processing."
     ],
-    "note": "The estimates include the fruit seeds and their fibre. No added sugar juice still contains naturally occurring sugar; this is not a collagen-protection treatment. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included.",
+    "note": "The estimates include the fruit seeds and their fibre. No added sugar juice still contains naturally occurring sugar; this is not a collagen-protection treatment. Development recipe, not kitchen-tested. Macros use a generic base estimate (300 kcal, 46 g protein, 24 g carbs, 3 g fat) plus typical ingredient values; exact labels vary. Carbohydrate figures may include fibre, unlike some Australian labels. Sweetener is assumed negligible; all listed toppings are included. Sweetener energy remains approximated as negligible in these rounded estimates; erythritol/polyols are not included in the displayed carb total. Check your product label if tracking precisely.",
     "mixins": [
       {
         "name": "White chocolate berry",
