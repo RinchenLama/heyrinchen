@@ -235,6 +235,127 @@ const recipes = [
     ]
   },
   {
+    "kind": "Ice cream",
+    "servings": 2,
+    "spin": [
+      "Check that the base is fully frozen and flat on top. Process straight from the freezer: FULL → ICE CREAM.",
+      "If crumbly, use RE-SPIN once without adding milk first. Stop when creamy.",
+      "If too soft, return to the freezer until scoopable. Add any optional mix-ins using the instructions below after processing."
+    ],
+    "storage": [
+      "Smooth leftovers flat, cover and return promptly to the freezer.",
+      "When fully frozen again, use ICE CREAM. If already scoopable, enjoy without processing.",
+      "Add crunchy toppings to individual servings after processing."
+    ],
+    "id": "coconut-classic",
+    "title": "Classic coconut cream",
+    "color": "#eadbbd",
+    "desc": "Coconut milk and thickened cream for a rich tropical scoop.",
+    "mac": [
+      1030,
+      18,
+      78,
+      71
+    ],
+    "ingredients": [
+      "250 ml full-cream milk",
+      "150 ml full-fat canned coconut milk, stirred well (not coconut drinking milk)",
+      "100 ml thickened cream (about 35% fat)",
+      "50 g caster sugar",
+      "15 g skim milk powder",
+      "¼ teaspoon food-grade coconut extract",
+      "Tiny pinch of salt"
+    ],
+    "prep": [
+      "Stir or shake the coconut milk until its cream and liquid recombine, then measure 150 ml.",
+      "Gently warm the full-cream milk with sugar, milk powder and salt, whisking until smooth. Do not boil.",
+      "Remove from heat. Whisk in coconut milk, thickened cream and coconut extract. Taste before adding more extract; strengths vary.",
+      "Chill the mixture in the fridge until completely cold. Let foam settle and gently stir.",
+      "Pour below SCOOPABLE MAX FILL; do not top up to reach the line. Fit the lid and freeze upright on a level shelf for at least 24 hours."
+    ],
+    "note": "Development recipe, not kitchen-tested. Whole-batch macros are rounded estimates using typical full-cream milk, 35% fat cream and canned coconut milk at around 180 kcal per 100 ml. Coconut milk brands vary considerably; use your labels for precise tracking. Includes all listed ingredients; optional toppings are extra. Contains dairy. Use the measured sugar for this classic formula; the separate protein version is formulated with low-calorie sweetener.",
+    "mixins": [
+      {
+        "name": "Bounty-style crunch",
+        "portion": "8 g finely chopped dark chocolate",
+        "kcal": 44,
+        "method": "mix"
+      },
+      {
+        "name": "Mango coconut sundae",
+        "portion": "30 g diced ripe mango on your served scoop",
+        "kcal": 18,
+        "method": "top"
+      },
+      {
+        "name": "Toasted coconut crunch",
+        "portion": "5 g toasted unsweetened coconut flakes",
+        "kcal": 33,
+        "method": "top"
+      }
+    ]
+  },
+  {
+    "kind": "Ice cream",
+    "servings": 2,
+    "spin": [
+      "Check that the base is fully frozen and flat on top. Process straight from the freezer: FULL → ICE CREAM.",
+      "If crumbly, use RE-SPIN once without adding milk first. Stop when creamy.",
+      "If too soft, return to the freezer until scoopable. Add any optional mix-ins using the instructions below after processing."
+    ],
+    "storage": [
+      "Smooth leftovers flat, cover and return promptly to the freezer.",
+      "When fully frozen again, use ICE CREAM. If already scoopable, enjoy without processing.",
+      "Add crunchy toppings to individual servings after processing."
+    ],
+    "id": "pistachio-classic",
+    "title": "Classic pistachio cream",
+    "color": "#b9c98e",
+    "desc": "Roasted pistachio butter and real cream in a rich, nutty scoop.",
+    "mac": [
+      1105,
+      30,
+      91,
+      69
+    ],
+    "ingredients": [
+      "350 ml full-cream milk",
+      "100 ml thickened cream (about 35% fat)",
+      "40 g smooth 100% roasted pistachio butter or paste (unsweetened; no added oil)",
+      "60 g caster sugar",
+      "15 g skim milk powder",
+      "Tiny pinch of salt"
+    ],
+    "prep": [
+      "Stir the pistachio butter to recombine any separated oil, then weigh 40 g. Use pure pistachio paste, not sweetened pistachio cream spread.",
+      "Gently warm the milk with sugar, milk powder and salt, whisking until dissolved. Do not boil.",
+      "Remove from heat. Whisk in the pistachio butter and cream until smooth. If needed, cool first, then blend in a separate blender to remove lumps.",
+      "Chill the mixture in the fridge until completely cold. Let foam settle and gently stir.",
+      "Pour below SCOOPABLE MAX FILL; do not top up to reach the line. Fit the lid and freeze upright on a level shelf for at least 24 hours."
+    ],
+    "note": "Development recipe, not kitchen-tested. Whole-batch macros are rounded estimates using typical full-cream milk, 35% fat cream and 40 g pure pistachio butter at about 246 kcal. Exact labels change totals; sweetened spreads do not match this formula. Optional toppings are extra. Contains pistachios and dairy. Use the measured sugar for this classic formula; the separate protein version is formulated with low-calorie sweetener.",
+    "mixins": [
+      {
+        "name": "White chocolate pistachio",
+        "portion": "6 g finely chopped white chocolate",
+        "kcal": 32,
+        "method": "mix"
+      },
+      {
+        "name": "Raspberry pistachio",
+        "portion": "3 g freeze-dried raspberries",
+        "kcal": 10,
+        "method": "top"
+      },
+      {
+        "name": "Baklava-inspired crunch",
+        "portion": "5 g finely chopped pistachios + 5 g honey + a pinch of cinnamon, on your served scoop",
+        "kcal": 46,
+        "method": "top"
+      }
+    ]
+  },
+  {
     "id": "masala-chiya",
     "title": "Nepali masala chiya",
     "kind": "Lite ice cream",
@@ -735,6 +856,131 @@ const recipes = [
         "name": "Coconut creamsicle",
         "portion": "4 g toasted coconut flakes",
         "kcal": 26,
+        "method": "top"
+      }
+    ]
+  },
+  {
+    "kind": "Lite ice cream",
+    "healthy": true,
+    "servings": 2,
+    "spin": [
+      "Check that the base is fully frozen and its top is flat. Process straight from the freezer: FULL → LITE ICE CREAM.",
+      "If powdery or crumbly, use RE-SPIN once without adding milk first. Stop when creamy.",
+      "If too soft, return to the freezer until scoopable. More spinning will not make it colder. Add optional toppings only after processing."
+    ],
+    "storage": [
+      "Smooth leftovers flat, cover and return promptly to the freezer.",
+      "When fully frozen again, use LITE ICE CREAM. If already scoopable, enjoy without processing.",
+      "Add crunchy toppings to individual servings so they stay crisp."
+    ],
+    "id": "coconut-protein",
+    "title": "Coconut cream",
+    "color": "#e6ddc5",
+    "desc": "Real coconut and vanilla in a lighter tropical scoop.",
+    "mac": [
+      367,
+      46.8,
+      24.6,
+      9.6
+    ],
+    "ingredients": [
+      "400 ml skim milk",
+      "40 g Optimum Nutrition Gold Standard vanilla whey",
+      "20 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
+      "Optional: ⅛ teaspoon xanthan gum",
+      "Tiny pinch of salt",
+      "10 g unsweetened fine desiccated coconut",
+      "¼ teaspoon food-grade coconut extract (start here; strength varies)"
+    ],
+    "prep": [
+      "Use 20 g of the specified 1:1 sweetener for the full recipe, or 10 g when making half. Concentrated stevia, monkfruit drops and sachets need their own label conversion; do not use the same gram amount.",
+      "Gently warm 100 ml of the measured milk with the coconut. Remove from heat and let stand for 10 minutes to soften; do not boil.",
+      "Add the remaining 300 ml cold milk, then cool the mixture fully. Blend in a separate blender with whey, sweetener, salt and coconut extract until as smooth as possible. Fine coconut flecks may remain.",
+      "If using xanthan, sprinkle in ⅛ teaspoon while blending; do not add more. Taste the coconut flavour before increasing extract, following its label guidance.",
+      "Taste the cool blended base. If needed, add another 5 g of the same 1:1 sweetener (2.5 g for a half recipe), blend and taste again. Vanilla whey is already sweetened.",
+      "Let foam settle, stir gently and pour below SCOOPABLE MAX FILL. Do not top up to reach the line. Fit the lid and freeze upright on a level shelf for at least 24 hours."
+    ],
+    "note": "Development recipe, not kitchen-tested; expect a lighter texture than cream-based ice cream. Macros use the collection’s approximate milk-and-whey base (300 kcal, 46 g protein, 24 g carbs, 3 g fat), plus the flavour ingredients. Sweetener, extract and optional xanthan are treated as negligible; polyols are excluded from displayed carbs. Exact product labels change totals. Optional mix-ins are extra. Coconut estimates use 10 g desiccated coconut at about 67 kcal. This contains dairy. Coconut ingredient reference: <a href=\"https://www.coles.com.au/product/coles-desiccated-coconut-500g-8734482\" target=\"_blank\" rel=\"noopener\">nutrition label</a>.",
+    "mixins": [
+      {
+        "name": "Bounty-style crunch",
+        "portion": "8 g finely chopped dark chocolate",
+        "kcal": 44,
+        "method": "mix"
+      },
+      {
+        "name": "Mango coconut sundae",
+        "portion": "30 g diced ripe mango on your served scoop",
+        "kcal": 18,
+        "method": "top"
+      },
+      {
+        "name": "Toasted coconut crunch",
+        "portion": "5 g toasted unsweetened coconut flakes",
+        "kcal": 33,
+        "method": "top"
+      }
+    ]
+  },
+  {
+    "kind": "Lite ice cream",
+    "healthy": true,
+    "servings": 2,
+    "spin": [
+      "Check that the base is fully frozen and its top is flat. Process straight from the freezer: FULL → LITE ICE CREAM.",
+      "If powdery or crumbly, use RE-SPIN once without adding milk first. Stop when creamy.",
+      "If too soft, return to the freezer until scoopable. More spinning will not make it colder. Add optional toppings only after processing."
+    ],
+    "storage": [
+      "Smooth leftovers flat, cover and return promptly to the freezer.",
+      "When fully frozen again, use LITE ICE CREAM. If already scoopable, enjoy without processing.",
+      "Add crunchy toppings to individual servings so they stay crisp."
+    ],
+    "id": "pistachio-protein",
+    "title": "Roasted pistachio",
+    "color": "#cbd8a6",
+    "desc": "Pure pistachio butter, vanilla and a tiny pinch of salt.",
+    "mac": [
+      454,
+      52.5,
+      26.1,
+      16
+    ],
+    "ingredients": [
+      "400 ml skim milk",
+      "40 g Optimum Nutrition Gold Standard vanilla whey",
+      "20 g granulated 1:1 monkfruit–erythritol sweetener (e.g. Lakanto Classic) per whole batch — suggested starting amount",
+      "Optional: ⅛ teaspoon xanthan gum",
+      "Tiny pinch of salt",
+      "25 g smooth 100% roasted pistachio butter or paste (unsweetened; no added oil)"
+    ],
+    "prep": [
+      "Use 20 g of the specified 1:1 sweetener for the full recipe, or 10 g when making half. Concentrated stevia, monkfruit drops and sachets need their own label conversion; do not use the same gram amount.",
+      "Stir the pistachio butter in its jar to recombine any separated oil, then weigh 25 g. Use pure pistachio butter rather than a sweetened pistachio cream spread.",
+      "Blend the milk, whey, pistachio butter, sweetener and salt completely smooth in a separate blender. Do not put loose whole nuts into the CREAMi.",
+      "If using xanthan, sprinkle in ⅛ teaspoon while blending. The natural colour will be a muted green or beige.",
+      "Taste the cool blended base. If needed, add another 5 g of the same 1:1 sweetener (2.5 g for a half recipe), blend and taste again. Vanilla whey is already sweetened.",
+      "Let foam settle, stir gently and pour below SCOOPABLE MAX FILL. Do not top up to reach the line. Fit the lid and freeze upright on a level shelf for at least 24 hours."
+    ],
+    "note": "Development recipe, not kitchen-tested; expect a lighter texture than cream-based ice cream. Macros use the collection’s approximate milk-and-whey base (300 kcal, 46 g protein, 24 g carbs, 3 g fat), plus the flavour ingredients. Sweetener, extract and optional xanthan are treated as negligible; polyols are excluded from displayed carbs. Exact product labels change totals. Optional mix-ins are extra. Contains pistachios and dairy. Estimates use about 154 kcal for 25 g pure pistachio butter; sweetened spreads have different ingredients and macros. Pistachio ingredient reference: <a href=\"https://www.nutgrocer.com.au/pure-australian-pistachio-spread/\" target=\"_blank\" rel=\"noopener\">per-100-g nutrition panel</a>.",
+    "mixins": [
+      {
+        "name": "White chocolate pistachio",
+        "portion": "6 g finely chopped white chocolate",
+        "kcal": 32,
+        "method": "mix"
+      },
+      {
+        "name": "Raspberry pistachio",
+        "portion": "3 g freeze-dried raspberries",
+        "kcal": 10,
+        "method": "top"
+      },
+      {
+        "name": "Baklava-inspired crunch",
+        "portion": "5 g finely chopped pistachios + 5 g honey + a pinch of cinnamon, on your served scoop",
+        "kcal": 46,
         "method": "top"
       }
     ]
